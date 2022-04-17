@@ -1,0 +1,59 @@
+.thisisnormal {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    font-family:sans-serif;
+    color: rgb(86, 86, 86);}
+
+  a {
+      text-decoration: none;
+      color:cadetblue;}
+
+  a:hover {
+text-decoration: underline; }
+
+.centerbody {
+    text-align:center;
+    font-weight: bold;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(236, 215, 200);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.topborder {
+    text-align:center;
+    font-weight: bold;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    border-top: 5px solid black;
+    margin: 20px;
+    padding-top: 75px;
+}
+.leftimg {
+    display: block;
+    margin-left: 30px;
+    margin-right: 20px;
+    width: 40%;
+    display: inline-flex;
+}
+.rightimg {
+    display: block;
+    margin-left: 120px;
+    margin-right: 20px;
+    width: 40%;
+    display:inline-flex;
+}
+
+/* imgs wont load */
+/* align menu right on tableau*/
+

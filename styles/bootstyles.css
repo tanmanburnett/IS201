@@ -1,0 +1,47 @@
+.menubar {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px gray;
+    background-color: black;
+    color: azure;
+}
+.subheader {
+    float: right;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+.header {
+   text-align: center;
+}
+a {
+color: azure;
+}
+
+body {
+    background-color: rgb(163, 186, 229);
+}
+.sheet1 {
+    size: 50px;
+}
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+    padding-right: 5px;
+}
+.footer {
+    bottom: 15px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 15px;
+    color: #555555;
+    text-align: center;
+    position: fixed;
+    margin-bottom: 20px;
+}
